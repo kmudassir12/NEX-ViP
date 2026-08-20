@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated NEX-ViP manuscript."
+title: "NEX-ViP"
+type: software
+authors:
+  - name: "NEX-ViP Authors"
+repository-code: "https://github.com/kmudassir12/NEX-ViP"
+abstract: "Colab implementation and reproducibility materials for NEX-ViP, an efficient latent video prediction model with perceptual and calibrated image-plane motion analysis."
+license: "NOASSERTION"
+version: "1.0.0-submission"
+date-released: 2026-08-20
