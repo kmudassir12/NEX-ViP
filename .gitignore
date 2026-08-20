@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large research artifacts
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+*.mp4
+*.avi
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.hdf5
+
+# Local data/output folders
+data/
+outputs/
+checkpoints/
+cache/
+wandb/
+
+# Keep lightweight documentation placeholders
+!results/README.md
