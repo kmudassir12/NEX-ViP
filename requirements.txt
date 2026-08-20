@@ -1,0 +1,14 @@
+# Direct runtime dependencies used by NEX-ViP notebook
+# PyTorch CUDA build should match the target Colab/runtime environment.
+torch==2.11.0
+torchmetrics==1.9.0
+lightning==2.2.1
+lpips
+numpy
+pandas
+scipy
+matplotlib
+opencv-python
+pycocotools
+tqdm
+torch-fidelity
