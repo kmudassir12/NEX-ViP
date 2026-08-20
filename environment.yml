@@ -1,0 +1,20 @@
+name: nexvip
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.12
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - tqdm
+  - pip:
+      - torch==2.11.0
+      - torchmetrics==1.9.0
+      - lightning==2.2.1
+      - lpips
+      - opencv-python
+      - pycocotools
+      - torch-fidelity
