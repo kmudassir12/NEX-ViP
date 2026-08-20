@@ -1,0 +1,24 @@
+{
+  "title": "NEX-ViP: Code and Reproducibility Package",
+  "description": "Colab implementation and reproducibility package for NEX-ViP, including the executed notebook, clean notebook, experiment protocol, and reproducibility guidance.",
+  "upload_type": "software",
+  "license": "other-open",
+  "creators": [
+    {"name": "NEX-ViP Authors"}
+  ],
+  "keywords": [
+    "video prediction",
+    "spatiotemporal predictive learning",
+    "CLEVRER",
+    "deep learning",
+    "perceptual metrics",
+    "motion analysis"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/kmudassir12/NEX-ViP",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
